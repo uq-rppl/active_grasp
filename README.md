@@ -1,6 +1,7 @@
 # Active-Grasp-my-working-setup-
 <br>
-This is my working version of the caktin workspace that allows me to run active grasp.
+This is my working version of the caktin workspace that allows me to run active grasp:
+[click here]([https://link-url-here.org](https://github.com/ethz-asl/active_grasp))
 
 ### Notes on what helped me to run Active Grasp:
 1. Apart from vgn, active_grasp, and robot_helpers, do not git clone the other required packages. Instead, use: sudo apt install ros-noetic-\<package name\>
